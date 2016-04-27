@@ -7,7 +7,3 @@
     * когда пользователь нажимает на открывается экран фотографии
 * Фотография
     * отображает одну фотографию с максимальной площадью
-
-https://api.500px.com/v1/photos?feature=popular&consumer_key=wB4ozJxTijCwNuggJvPGtBGCRqaZVcF6jsrzUadF
-
-https://api.500px.com/v1/photos?feature=popular&consumer_key=wB4ozJxTijCwNuggJvPGtBGCRqaZVcF6jsrzUadF&page=2
